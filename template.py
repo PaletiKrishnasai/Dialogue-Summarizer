@@ -12,7 +12,7 @@ list_files = [
     f"src/{project_name}/_init_.py",  # constructor file - used for installing any local files as modules if need be
     f"src/{project_name}/components/_init_.py",
     f"src/{project_name}/utils/common.py",
-    f"src/{project_name}/loggging/_init_.py",
+    f"src/{project_name}/logging/_init_.py",
     f"src/{project_name}/config/_init_.py",
     f"src/{project_name}/config/configuration.py",
     f"src/{project_name}/pipeline/_init_.py",
