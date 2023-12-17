@@ -85,9 +85,9 @@ jobs:
           docker pull ${{secrets.AWS_ECR_LOGIN_URI}}/${{ secrets.ECR_REPOSITORY_NAME }}:latest
 
       ### Uncomment the following lines if we have to push with the latest image and version. will stop the container and restart it.
-      # - name: Stop and remove container if running
-      #   run: |
-      #    docker ps -q --filter "name=texts" | grep -q . && docker stop texts && docker rm -fv texts
+      - name: Stop and remove container if running
+        run: |
+          docker ps -q --filter "name=texts" | grep -q . && docker stop texts && docker rm -fv texts
 
       - name: Run Docker Image to serve users
         run: |
