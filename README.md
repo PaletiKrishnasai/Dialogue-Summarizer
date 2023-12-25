@@ -1,6 +1,6 @@
 # Dialogue-Summarizer
 
-This project focuses on the end-to-end implementation of text summarization using the PEGASUS transformer.
+This project focuses on the end-to-end implementation of dialogue summarization using the PEGASUS transformer model finetuned on samsum dataset.
 
 # Workflow
 
