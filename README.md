@@ -100,3 +100,12 @@ These are the steps that should be followed while implementing each step in the 
 
 ![Github Actions Deployement](/images/GithubActions_2.png)
 _CI-CD pipeline through Github Actions_
+
+![Github Actions Deployement completed](/images/GithubActions.png)
+_CI-CD pipeline through Github Actions_
+
+![AWS Hosted Application using FASTAPI](/images/AWS_hosted.png)
+_AWS Hosted Application using FASTAPI_
+
+![HuggingFace Hosted Application using Streamlit](/images/HuggingFaceSpacesDemoApp.png)
+_HuggingFace Hosted Application using Streamlit_
