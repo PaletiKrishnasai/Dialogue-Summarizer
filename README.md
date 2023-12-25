@@ -48,8 +48,8 @@ These are the steps that should be followed while implementing each step in the 
 
 ## 3. Create ECR repo to store/save docker image
 
-    - Save the URI: 
-    
+    - Save the URI:
+
 ## 4. Create EC2 machine (Ubuntu)
 
 ## 5. Open EC2 and Install docker in EC2 Machine:
@@ -80,7 +80,7 @@ These are the steps that should be followed while implementing each step in the 
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-east-1
+    AWS_REGION = us-east-2 (this will vary depending on your AWS account region)
 
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
