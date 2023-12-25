@@ -98,5 +98,5 @@ These are the steps that should be followed while implementing each step in the 
 
 # 9. Corresponding Images:
 
-    ![Github Actions Deployement](/images/GithubActions_2.png)
-    *CI-CD pipeline through Github Actions*
+![Github Actions Deployement](/images/GithubActions_2.png)
+_CI-CD pipeline through Github Actions_
