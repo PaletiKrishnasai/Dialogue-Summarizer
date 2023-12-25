@@ -1,4 +1,4 @@
-# Text-Summarizer
+# Dialogue-Summarizer
 
 This project focuses on the end-to-end implementation of text summarization using the PEGASUS transformer.
 
@@ -78,7 +78,7 @@ These are the steps that should be followed while implementing each step in the 
 
     AWS_ACCESS_KEY_ID=
 
-    AWS_SECRET_ACCESS_KEY=
+    AWS_SECRET_ACCESS_KEY= (downed secret key from AWS account)
 
     AWS_REGION = us-east-2 (this will vary depending on your AWS account region)
 
