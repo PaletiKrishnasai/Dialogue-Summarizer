@@ -96,6 +96,8 @@ These are the steps that should be followed while implementing each step in the 
 
     requirements.txt : Contains the requirements for the hugging face application. (Upload the file to spaces folder).
 
+    Model card: https://huggingface.co/pk248/pegasus-samsum
+
 # 9. Corresponding Images:
 
 ![Github Actions Deployement](/images/GithubActions_2.png)
@@ -104,8 +106,8 @@ _CI-CD pipeline through Github Actions_
 ![Github Actions Deployement completed](/images/GithubActions.png)
 _CI-CD pipeline through Github Actions_
 
-![AWS Hosted Application using FASTAPI](/images/AWS_hosted.png)
-_AWS Hosted Application using FASTAPI_
+![AWS Hosted Application using FastAPI](/images/AWS_hosted.png)
+_AWS Hosted Application using FastAPI_
 
 ![HuggingFace Hosted Application using Streamlit](/images/HuggingFaceSpacesDemoApp.png)
 _HuggingFace Hosted Application using Streamlit_
