@@ -85,3 +85,18 @@ These are the steps that should be followed while implementing each step in the 
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app
+
+# 8. HuggingFace:
+
+    The HuggingFace Folder contains the files required to push to HuggingFace Hub and deploy the model card Spaces.
+
+    Dialogue_Summarizer_notebook : Contains the complete codebase to train, finetune and push to hub.
+
+    HuggingFaceSpacesApp: Contains the complete Application code to host on HuggingFace Spaces. (Just rename the file to app.py while hosting)
+
+    requirements.txt : Contains the requirements for the hugging face application. (Upload the file to spaces folder).
+
+# 9. Corresponding Images:
+
+    ![Github Actions Deployement](/images/GithubActions_2.png)
+    *CI-CD pipeline through Github Actions*
