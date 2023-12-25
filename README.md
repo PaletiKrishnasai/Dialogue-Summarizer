@@ -96,7 +96,7 @@ The HuggingFace Folder contains the files required to push to HuggingFace Hub an
 
     requirements.txt : Contains the requirements for the hugging face application. (Upload the file to spaces folder).
 
-Model card: https://huggingface.co/pk248/pegasus-samsum
+**Model card:** https://huggingface.co/pk248/pegasus-samsum
 
 # 9. Corresponding Images:
 
