@@ -88,15 +88,15 @@ These are the steps that should be followed while implementing each step in the 
 
 # 8. HuggingFace:
 
-    The HuggingFace Folder contains the files required to push to HuggingFace Hub and deploy the model card Spaces.
+The HuggingFace Folder contains the files required to push to HuggingFace Hub and deploy the model card Spaces.
 
-    Dialogue_Summarizer_notebook : Contains the complete codebase to train, finetune and push to hub.
+Dialogue_Summarizer_notebook : Contains the complete codebase to train, finetune and push to hub.
 
-    HuggingFaceSpacesApp: Contains the complete Application code to host on HuggingFace Spaces. (Just rename the file to app.py while hosting)
+HuggingFaceSpacesApp: Contains the complete Application code to host on HuggingFace Spaces. (Just rename the file to app.py while hosting)
 
-    requirements.txt : Contains the requirements for the hugging face application. (Upload the file to spaces folder).
+requirements.txt : Contains the requirements for the hugging face application. (Upload the file to spaces folder).
 
-    Model card: https://huggingface.co/pk248/pegasus-samsum
+Model card: https://huggingface.co/pk248/pegasus-samsum
 
 # 9. Corresponding Images:
 
