@@ -2,6 +2,10 @@
 
 This project focuses on the end-to-end implementation of dialogue summarization using the PEGASUS transformer model finetuned on samsum dataset.
 
+**Model card:** https://huggingface.co/pk248/pegasus-samsum
+
+**Demo Application:** https://huggingface.co/spaces/pk248/Dialogue-Summarizer
+
 # Workflow
 
 These are the steps that should be followed while implementing each step in the project like data ingestion, data validation, data transformation, model training and model evaluation.
