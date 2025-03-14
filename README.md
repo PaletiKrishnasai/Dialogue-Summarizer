@@ -4,7 +4,6 @@ This project focuses on the end-to-end implementation of dialogue summarization 
 
 **Model card:** https://huggingface.co/pk248/pegasus-samsum
 
-**Demo Application:** https://huggingface.co/spaces/pk248/Dialogue-Summarizer
 
 # Workflow
 
